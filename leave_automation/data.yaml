@@ -1,0 +1,6 @@
+path: /Users/raghu/Documents/yolo_training/dataset
+train: train/images
+val: val/images
+
+nc: 1
+names: ['hamburger_menu']
